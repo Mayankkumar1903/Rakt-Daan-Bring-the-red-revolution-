@@ -5,6 +5,8 @@ Blood Record is maintained according to different Blood Group Like(O+ , O- , A+ 
 Dynamic Login and Registration pages are generated based on the user's role .
 Blood Inventory is maintained regularly with available quantity. When a user donates blood then it is updated.
 # Login and Registration Based on different Role:-
+<img width="950" alt="Screenshot 2023-09-04 202458" src="https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/8cd9fc9a-bab7-492f-b028-7a4fdc2368c9">
+<img width="950" alt="Screenshot 2023-09-04 202458" src="https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/abfd65fe-5788-4ead-8efe-9d94f00bd079">
 
 
 # User Interface for Donor: that will show how much Blood he has donated to which organisation.
