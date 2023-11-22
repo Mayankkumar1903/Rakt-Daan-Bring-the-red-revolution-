@@ -1,4 +1,4 @@
-# Red_Revolution_Rakt_Daan
+# Rakt_Daan_Bring the Red Revolution
 A complete MERN stack project to support the Red Revolution in world!!!
 It is a Multi user based web application in which users like(Donor, Hospital, Organisation, Admin) can  use based on their roles . Admin can control the list of organisations, and hospitals. Admin can update the list of donors, hospitals, and organisations. Hospitals can update the available quantity of blood available of different Blood Types.
 Blood Record is maintained according to different Blood Group Like(O+ , O- , A+ , B+ , AB+, AB- , etc) . 
