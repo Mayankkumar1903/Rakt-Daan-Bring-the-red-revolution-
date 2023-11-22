@@ -8,9 +8,6 @@ Blood Inventory is maintained regularly with available quantity. When a user don
 # User Interface for Donor: that will show how much Blood he has donated to which organisation.
 ![image](https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/5fc03487-9fbd-4cc8-bdb6-cc6f3d45158f)
 
-![image](https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/2dbe5894-ff82-4edb-b6d3-ef248e3123e4)
-![image](https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/f9a0d05b-8b16-45f0-b89a-b03202b3b47b)
-<img width="960" alt="Screenshot 2023-09-04 202637" src="https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/b57e8695-a522-4501-9b6a-76638bbf0a03">
 
 # Admin page which show all the list of DOnor, Hospital and Organisations:
 <img width="950" alt="Screenshot 2023-09-04 202458" src="https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/cb8dd33b-6795-4ad1-b664-089a99a0a1cc">
