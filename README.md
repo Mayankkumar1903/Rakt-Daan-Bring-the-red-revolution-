@@ -5,19 +5,28 @@ Blood Record is maintained according to different Blood Group Like(O+ , O- , A+ 
 Dynamic Login and Registration pages are generated based on the user's role .
 Blood Inventory is maintained regularly with available quantity. When a user donates blood then it is updated.
 # Login and Registration Based on different Role:-
-<img width="950" alt="Screenshot 2023-09-04 202458" src="https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/8cd9fc9a-bab7-492f-b028-7a4fdc2368c9">
-<img width="950" alt="Screenshot 2023-09-04 202458" src="https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/abfd65fe-5788-4ead-8efe-9d94f00bd079">
+
 
 
 # User Interface for Donor: that will show how much Blood he has donated to which organisation.
+![image](https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/5fc03487-9fbd-4cc8-bdb6-cc6f3d45158f)
 
 
 # Admin page which show all the list of DOnor, Hospital and Organisations:
+<img width="950" alt="Screenshot 2023-09-04 202458" src="https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/cb8dd33b-6795-4ad1-b664-089a99a0a1cc">
+![image](https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/11d2f8df-1251-41df-9938-675c2796b5d3)
+![image](https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/d9fefbe7-cf89-4461-874a-e27df8f7a440)
 
+![image](https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/0ccac398-6795-48f3-be86-bc8979d0219a)
 
 # Hospital pages:(with Analytics access to fetch available Blood Quantity of different types)
+![image](https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/327f3d81-bf5d-4d51-a860-e24050bd518c)
+![image](https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/3a004c08-36e9-42d5-884a-558f51b48b4d)
 
 
 # Organisation pages:(with Analytics access to fetch available Blood Quantity of different types)
+![image](https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/019c3dfe-60a1-467d-8ef3-c234d9eef6bd)
+
+![image](https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/5c52c0e7-fa08-4913-9bc5-f91788a2d1a1)
 
 
