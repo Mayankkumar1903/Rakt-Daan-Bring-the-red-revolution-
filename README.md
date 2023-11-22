@@ -4,18 +4,16 @@ It is a Multi user based web application in which users like(Donor, Hospital, Or
 Blood Record is maintained according to different Blood Group Like(O+ , O- , A+ , B+ , AB+, AB- , etc) . 
 Dynamic Login and Registration pages are generated based on the user's role .
 Blood Inventory is maintained regularly with available quantity. When a user donates blood then it is updated.
-# Login and Registration Based on different Role:-
-
-
 
 # User Interface for Donor: that will show how much Blood he has donated to which organisation.
 ![image](https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/5fc03487-9fbd-4cc8-bdb6-cc6f3d45158f)
 
+![image](https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/2dbe5894-ff82-4edb-b6d3-ef248e3123e4)
+![image](https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/f9a0d05b-8b16-45f0-b89a-b03202b3b47b)
+<img width="960" alt="Screenshot 2023-09-04 202637" src="https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/b57e8695-a522-4501-9b6a-76638bbf0a03">
 
 # Admin page which show all the list of DOnor, Hospital and Organisations:
 <img width="950" alt="Screenshot 2023-09-04 202458" src="https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/cb8dd33b-6795-4ad1-b664-089a99a0a1cc">
-![image](https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/11d2f8df-1251-41df-9938-675c2796b5d3)
-![image](https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/d9fefbe7-cf89-4461-874a-e27df8f7a440)
 
 ![image](https://github.com/Mayankkumar1903/Rakt-Daan-Bring-the-red-revolution-/assets/115803475/0ccac398-6795-48f3-be86-bc8979d0219a)
 
